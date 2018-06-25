@@ -13,10 +13,10 @@ class Triangle
         @side_3 + @side_2 <= @side_1 
   raise TriangleError
   end 
-  if  @side_1 + @side_2 + @side_3 == 3 
+  if  @side_1 + @side_2 + @side_3 = 3 
     return :equilateral 
     return :scalene 
-    elsif @side_1 + @side_2 + @side_3 == 2 
+    elsif @side_1 + @side_2 + @side_3 = !3 
     return :isosceles 
   end
 end 
