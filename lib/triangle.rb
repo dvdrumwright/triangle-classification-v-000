@@ -15,4 +15,5 @@ end
 
 
 # three sides equilateral 
-   
+  two sides  isosceles 
+  
