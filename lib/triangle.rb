@@ -15,5 +15,6 @@ end
 
 
 # three sides equilateral 
-  two sides  isosceles 
+  # three sides scalene 
+  # two sides  isosceles 
   
