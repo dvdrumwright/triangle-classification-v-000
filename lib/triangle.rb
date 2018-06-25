@@ -14,4 +14,4 @@ end
 end
 
 
-three sides 
+three sides equilateral 
