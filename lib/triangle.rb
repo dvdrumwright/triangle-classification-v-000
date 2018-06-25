@@ -16,8 +16,6 @@ def kind
 else 
   return raise TriangleError
 end 
-end 
-
 
 end
 
