@@ -7,7 +7,7 @@ class Triangle
   end
 
 def kind
-  if @side_1
+  if @side_1 
 end 
 
 
