@@ -11,7 +11,8 @@ def kind
     return :equilateral 
     return :scalene
     elsif @side_1 + @side_2 + @side_3 ==!3 
-    return 
+    return :isosceles 
+    
 end 
 
 
