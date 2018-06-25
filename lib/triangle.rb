@@ -15,11 +15,11 @@ class Triangle
   end 
   if  @side_1 + @side_2 + @side_3 = 3 
     return :equilateral 
+  elsif @side_1 + @side_2 + @side_3 = 2
+    return :isosceles 
    elsif @side_1 + @side_2 + @side_3 = 3 
     return :scalene 
-    elsif @side_1 + @side_2 + @side_3 = 2
-    return :isosceles 
-  end
+    end
 end 
 
 
@@ -27,6 +27,7 @@ end
 
 end
 # three sides equilateral 
-  # three sides scalene 
   # two sides  isosceles 
+  # three sides scalene 
+  
   
