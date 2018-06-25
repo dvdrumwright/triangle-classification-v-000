@@ -21,13 +21,10 @@ class Triangle
         :scalene
 end 
 end 
-
-
-
-
 end
-# three sides equilateral 
-  # two sides  isosceles 
-  # three sides scalene 
-  
+
+
+class TriangleError < StandardError
+  # triangle error code
+end
   
