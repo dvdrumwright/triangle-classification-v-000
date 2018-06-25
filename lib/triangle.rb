@@ -17,7 +17,7 @@ class Triangle
         :equilateral
   elsif @side_1 == @side_2 || @side_2 == @side_2 || @side_2 == @side_2
        :isosceles
-  elsif @side_1 = !@side_2 ||  @side_2 = !@side_2 || @side_2 = !@side_3
+  elsif @side_1 = !@side_2 &&  @side_2 = !@side_2 &&  @side_2 = !@side_3
        :scalene
 
 
