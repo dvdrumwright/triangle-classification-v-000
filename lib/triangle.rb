@@ -13,7 +13,7 @@ def kind
         @side_1 + @side_3 <= @side_2 || 
         @side_3 + @side_2 <= @side_1 
   raise TriangleError
-  else @side_1 + @side_2 + @side_3 = :equilateral
+  else @side_1 + @side_2 + @side_3 
     
 
 
