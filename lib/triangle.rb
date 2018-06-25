@@ -18,11 +18,7 @@ def kind
     return :scalene 
     elsif @side_1 + @side_2 + @side_3 == 2 
     return :isosceles 
-    
-
-
-
-end 
+  end
 end 
 
 
