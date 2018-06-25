@@ -6,10 +6,18 @@ class Triangle
   end
 
   
+def kind 
+  if 
+
+
+
+end 
+
+
+
+
+
 end
-
-
-
 # three sides equilateral 
   # three sides scalene 
   # two sides  isosceles 
