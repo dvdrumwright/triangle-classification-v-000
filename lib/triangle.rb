@@ -15,3 +15,4 @@ end
 
 
 three sides equilateral 
+thres side isosceles 
