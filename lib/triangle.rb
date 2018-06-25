@@ -14,7 +14,8 @@ def kind
     return :isosceles 
   end 
 else 
-  return 
+  return raise TriangleError
+end 
 end 
 
 
